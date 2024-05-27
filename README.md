@@ -44,15 +44,15 @@ I'm also experienced in developing cloud-based applications using Rust. Here are
 
 I have had the opportunity to contribute to projects at the SLAC National Accelerator Laboratory. Here are some of the projects I've worked on:
 
-### Project 1: [Project Name]
-**Description**: A brief description of the project, what it does, and what technologies were used.
+### Project 1: Modeling and optimization of the FACET-II injector with machine learning algorithms
+**Description**: Published in IPAC 24 - link: A brief description of the project, what it does, and what technologies were used.
 **Tech Stack**: List the technologies and tools used.
-**GitHub Repo**: [Link to the repository]
+**GitHub Repo**:  [[Link to paper]]([url](https://www.researchgate.net/publication/380665428_IPAC'24_-_Modeling_and_optimization_of_the_FACET-II_injector_with_machine_learning_algorithms))[Link to the repository]
 
-### Project 2: [Project Name]
-**Description**: A brief description of the project, what it does, and what technologies were used.
-**Tech Stack**: List the technologies and tools used.
-**GitHub Repo**: [Link to the repository]
+### Project 2: Bmad L1 and L2 phase scan
+**Description**: This project simulates beam dynamics in the FACET-II particle accelerator. It performs a double for-loop scan over L1 and L2 phases to analyze their impact on beam behavior, setting up the simulation environment, running simulations, and visualizing results in a matrix plot format.
+**Tech Stack**: Python, Anaconda, Bmad, pytao, openpmd-beamphysics, numpy, matplotlib, pandas
+**GitHub Repo**: [[Link to the repository]]([repo](https://github.com/sanjeev-one/bmad))
 
 ### Project 3: [Project Name]
 **Description**: A brief description of the project, what it does, and what technologies were used.
