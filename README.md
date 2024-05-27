@@ -47,12 +47,12 @@ I have had the opportunity to contribute to projects at the SLAC National Accele
 ### Project 1: Modeling and optimization of the FACET-II injector with machine learning algorithms
 **Description**: Published in IPAC 24 - link: A brief description of the project, what it does, and what technologies were used.
 **Tech Stack**: List the technologies and tools used.
-**GitHub Repo**:  [[Link to paper]]([url](https://www.researchgate.net/publication/380665428_IPAC'24_-_Modeling_and_optimization_of_the_FACET-II_injector_with_machine_learning_algorithms))[Link to the repository]
+**GitHub Repo**:  [[Link to paper]](https://www.researchgate.net/publication/380665428_IPAC'24_-_Modeling_and_optimization_of_the_FACET-II_injector_with_machine_learning_algorithms))[Link to the repository]
 
 ### Project 2: Bmad L1 and L2 phase scan
 **Description**: This project simulates beam dynamics in the FACET-II particle accelerator. It performs a double for-loop scan over L1 and L2 phases to analyze their impact on beam behavior, setting up the simulation environment, running simulations, and visualizing results in a matrix plot format.
 **Tech Stack**: Python, Anaconda, Bmad, pytao, openpmd-beamphysics, numpy, matplotlib, pandas
-**GitHub Repo**: [[Link to the repository]]([repo](https://github.com/sanjeev-one/bmad))
+**GitHub Repo**: [[Link to the repository]](https://github.com/sanjeev-one/bmad)
 
 ### Project 3: [Project Name]
 **Description**: A brief description of the project, what it does, and what technologies were used.
@@ -61,6 +61,6 @@ I have had the opportunity to contribute to projects at the SLAC National Accele
 
 ## 📫 How to reach me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) or email me at [youremail@example.com].
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sanjeev-one) or email me at [sanjeev@sanjeev.one].
 
 Thanks for visiting my profile! 😄
