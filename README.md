@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Sanjeev! 👋
 
 Welcome to my GitHub profile! I'm passionate about technology, coding, and collaborating on innovative projects. Here's a little bit about what I do:
 
@@ -20,10 +20,10 @@ I have had the opportunity to contribute to projects at the SLAC National Accele
 
 **GitHub Repo**: [[Link to the repository]](https://github.com/sanjeev-one/bmad)
 
-### Project 3: [Project Name]
-**Description**: A brief description of the project, what it does, and what technologies were used.
-**Tech Stack**: List the technologies and tools used.
-**GitHub Repo**: [Link to the repository]
+### Project 3: Online ML Modeling with Live Data
+**Description**: TBD: take containerized simulations and deploy to online computer on s3df via k8s to perform ml anaylysis during injector runs.
+**Tech Stack**: K8s, docker, ML 
+**GitHub Repo**: TBD
 
 
 ## 🦀 Rust Cloud Development Projects
